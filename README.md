@@ -1,2 +1,15 @@
-# ssg-weekly
-The best SSG related news and links straight to your inbox, weekly 
+# SSG Weekly
+
+A initiative by SSG members that aggregates the best content happening at SSG Slack, delivered once a week to your inbox. 
+
+> *Mantainer:* [Jean Lucas](https://github.com/jeanleonino)
+
+# Send your link
+Suggest an article, startup, media, and any other thing you would like to appear here. [Send your content now](https://github.com/StartupStudyGroup/ssg-weekly/issues).
+
+# What is SSG
+SSG means Startup Study Group, it is a community of founders, funders, and others curious about startup all united on slack. If you want to join, just click the badge: 
+[![](https://cldup.com/jWUT4QFLnq.png)](http://ssg-slack.herokuapp.com)
+
+# Who's behind this?
+All community at slack send links, their own startups, and interesting activities. 

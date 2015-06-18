@@ -1,8 +1,6 @@
 # SSG Weekly
 
-![Cover](add-img)
-
-A initiative by SSG members that aggregates the best content happening at SSG Slack, delivered once a week to your inbox. 
+A initiative by SSG members that aggregates the best content happening at SSG Slack, delivered once a week to your inbox. You can sign up [clicking here](http://eepurl.com/bqS9X5).
 
 > *Mantainer:* [Jean Lucas](https://github.com/jeanleonino)
 

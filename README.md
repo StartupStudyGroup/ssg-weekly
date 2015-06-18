@@ -12,7 +12,7 @@ Suggest an article, startup, media, and any other thing you would like to appear
 ## What is SSG
 SSG means Startup Study Group, it is a community of founders, funders, and others curious about startup all united on slack. If you want to join, just click the badge: 
 
-[![](https://cldup.com/jWUT4QFLnq.png)](http://ssg-slack.herokuapp.com)
+[![slashrocket - Slack](https://ssg-slack.herokuapp.com/badge.svg)](https://ssg-slack.herokuapp.com/)
 
 ## Who's behind this?
 All community at SSG slack participate sending links, their own startups, and interesting activities. 
